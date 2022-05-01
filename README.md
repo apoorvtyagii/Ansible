@@ -2,7 +2,7 @@
 Create a ansible machine and control host machines 
 
 
-
+To save the space in our system I am creating 3 hosts nodes(using centos 7) and 1 controler node(ubantu 20.) in virtual box.
 using centos 7 
 
 	#to install ansible
