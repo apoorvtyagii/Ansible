@@ -1,0 +1,7 @@
+---
+  -hosts: hostone
+   tasks:
+    - name: Copy file from ansible remote machine to any host
+      copy:
+        src: /ansiblefiles/dummyfiletocopy 
+        dest: /ansiblefiles/
